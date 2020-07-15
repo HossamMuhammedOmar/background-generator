@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(to right, red, yellow);
+  color: rgba(0, 0, 0, 0.5);
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
